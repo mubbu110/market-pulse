@@ -283,8 +283,7 @@ A: Yes, edit `days=90` to `days=180` or `days=365`. But it will be slower.
 - **Python:** 3.9+
 - **Status:** Fully Functional, No APIs Required
 - **License:** Educational Use Only
-- **Last Updated:** April 2025
-
+- **Last Updated:** April 2026
 ---
 
 ## **Getting Help**
